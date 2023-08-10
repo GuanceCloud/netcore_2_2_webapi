@@ -16,5 +16,5 @@ DD_PROFILING_HEAP_ENABLED=1 \
 DD_PROFILING_GC_ENABLED=1 \
 DD_SERVICE=dotnet-profiling-demo DD_ENV=testing DD_VERSION=1.2.3 \
 DD_AGENT_HOST=127.0.0.1 DD_TRACE_AGENT_PORT=9529 \
-dotnet bin/Release/netcoreapp2.2/publish/netcore_2_2.dll)
+dotnet bin/Release/netcoreapp2.2/publish/netcore_2_2_webapi.dll)
 
